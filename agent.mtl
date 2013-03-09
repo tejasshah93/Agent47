@@ -1,0 +1,75 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl agent47_arms
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/john/Downloads/Agent_47/agent47_arms_d.tga
+map_d /home/john/Downloads/Agent_47/agent47_arms_d.tga
+
+newmtl agent47_gloves
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/john/Downloads/Agent_47/agent47_gloves_d.tga
+
+newmtl agent47_gun
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/john/Downloads/Agent_47/agent47_gun_d.tga
+map_d /home/john/Downloads/Agent_47/agent47_gun_d.tga
+
+newmtl agent47_head
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/john/Downloads/Agent_47/agent47_head_d.tga
+map_d /home/john/Downloads/Agent_47/agent47_head_d.tga
+
+newmtl agent47_holster
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/john/Downloads/Agent_47/agent47_holster_d.tga
+
+newmtl agent47_legs
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/john/Downloads/Agent_47/agent47_legs_d.tga
+
+newmtl agent47_shirt
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/john/Downloads/Agent_47/agent47_shirt_d.tga
